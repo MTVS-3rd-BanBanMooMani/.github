@@ -22,7 +22,7 @@ U|' \/ '|u   \/"_ \/    \/"_ \/U|' \/ '|uU  /"\  u | \ |"|       ___
 
 ## 팀원 소개
 - 😎박인성, email : 123macanic@naver.com
-- 👻김솔잎, email : misshallo00a@gmail.com
+- 🐣김솔잎, email : misshallo00a@gmail.com
 - 🎸임소연, email : blip0819@gmail.com
 - 🐰전주현, email : ybyb414@gmail.com
 - 🐯송호진, email : 0918syj@gmail.com
