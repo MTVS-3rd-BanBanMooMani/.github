@@ -21,7 +21,7 @@ U|' \/ '|u   \/"_ \/    \/"_ \/U|' \/ '|uU  /"\  u | \ |"|       ___
 
 
 ## 팀원 소개
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Hexeong"><img src="https://github.com/Hexeong.png" width="100px;" alt=""/><br /><b>박인성</b></a><br /></td>
