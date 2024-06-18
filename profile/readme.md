@@ -24,7 +24,7 @@ U|' \/ '|u   \/"_ \/    \/"_ \/U|' \/ '|uU  /"\  u | \ |"|       ___
 <table align="center">
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Hexeong"><img src="https://github.com/Hexeong.png" width="100px;" alt=""/><br /><b>박인</b></a><br /></td>
+      <td align="center"><a href="https://github.com/Hexeong"><img src="https://github.com/Hexeong.png" width="100px;" alt=""/><br /><b>박인성</b></a><br /></td>
       <td align="center"><a href="https://github.com/deepPine"><img src="https://github.com/deepPine.png" width="100px;" alt=""/><br /><b>김솔잎</b></a><br /></td>
       <td align="center"><a href="https://github.com/lxxsxynnn"><img src="https://github.com/lxxsxynnn.png" width="100px;" alt=""/><br /><b>임소연</b></a><br /></td>
       <td align="center"><a href="https://github.com/kr-nius"><img src="https://github.com/kr-nius.png" width="100px;" alt=""/><br /><b>전주현</b></a><br /></td>
