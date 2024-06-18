@@ -21,8 +21,23 @@ U|' \/ '|u   \/"_ \/    \/"_ \/U|' \/ '|uU  /"\  u | \ |"|       ___
 
 
 ## 팀원 소개
-- 😎박인성, email : 123macanic@naver.com
-- 🐣김솔잎, email : misshallo00a@gmail.com
-- 🎸임소연, email : blip0819@gmail.com
-- 🐰전주현, email : ybyb414@gmail.com
-- 🐯송호진, email : 0918syj@gmail.com
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Hexeong"><img src="https://github.com/Hexeong.png" width="100px;" alt=""/><br /><b>박인</b></a><br /></td>
+      <td align="center"><a href="https://github.com/deepPine"><img src="https://github.com/deepPine.png" width="100px;" alt=""/><br /><b>김솔잎</b></a><br /></td>
+      <td align="center"><a href="https://github.com/lxxsxynnn"><img src="https://github.com/lxxsxynnn.png" width="100px;" alt=""/><br /><b>임소연</b></a><br /></td>
+      <td align="center"><a href="https://github.com/kr-nius"><img src="https://github.com/kr-nius.png" width="100px;" alt=""/><br /><b>전주현</b></a><br /></td>
+      <td align="center"><a href="https://github.com/hojin0729"><img src="https://github.com/hojin0729.png" width="100px;" alt=""/><br /><b>송호진</b></a><br /></td>
+    </tr>
+    <tr>
+      <td align="center">팀장😎</td>
+      <td align="center">🐣</td>
+      <td align="center">🎸</td>
+      <td align="center">🐰</td>
+      <td align="center">🐯</td>
+    </tr>
+    
+  </tbody>
+</table>
+
