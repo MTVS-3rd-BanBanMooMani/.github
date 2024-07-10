@@ -29,6 +29,7 @@ U|' \/ '|u   \/"_ \/    \/"_ \/U|' \/ '|uU  /"\  u | \ |"|       ___
       <td align="center"><a href="https://github.com/lxxsxynnn"><img src="https://github.com/lxxsxynnn.png" width="100px;" alt=""/><br /><b>임소연</b></a><br /></td>
       <td align="center"><a href="https://github.com/kr-nius"><img src="https://github.com/kr-nius.png" width="100px;" alt=""/><br /><b>전주현</b></a><br /></td>
       <td align="center"><a href="https://github.com/hojin0729"><img src="https://github.com/hojin0729.png" width="100px;" alt=""/><br /><b>송호진</b></a><br /></td>
+       <td align="center"><a href="https://github.com/INUK-ai"><img src="https://github.com/INUK-ai.png" width="100px;" alt=""/><br /><b>황인욱</b></a><br /></td>
     </tr>
     <tr>
       <td align="center">팀장😎</td>
@@ -36,6 +37,7 @@ U|' \/ '|u   \/"_ \/    \/"_ \/U|' \/ '|uU  /"\  u | \ |"|       ___
       <td align="center">🎸</td>
       <td align="center">🐰</td>
       <td align="center">🐯</td>
+      <td align="center"></td>
     </tr>
     
   </tbody>
